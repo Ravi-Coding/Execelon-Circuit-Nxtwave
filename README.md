@@ -37,12 +37,12 @@ and retrieve city information stored in a MongoDB database.
     Method: POST
     Body:
     {
-  "name": "mumbai",
-  "population": 10000,
-  "country": "India",
-  "latitude": 16.87,
-  "longitude": 76.47
-  }
+    "name": "mumbai",
+    "population": 10000,
+    "country": "India",
+    "latitude": 16.87,
+    "longitude": 76.47
+    }
 
  ## Success Response:
 
